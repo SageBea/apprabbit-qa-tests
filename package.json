@@ -3,6 +3,8 @@
     "axios": "^1.12.2"
   },
   "devDependencies": {
-    "@types/axios": "^0.9.36"
+    "@playwright/test": "^1.55.1",
+    "@types/axios": "^0.9.36",
+    "playwright": "^1.55.1"
   }
 }
