@@ -3,4 +3,5 @@ This repository contains my submission for the Quality Assurance Intern applicat
 
 Contents
 tests/api-login.test.ts – API test for login
+
 tests/ui-login.test.ts – UI test using Playwright for the admin dashboard login
